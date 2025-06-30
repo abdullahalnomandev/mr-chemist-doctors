@@ -83,7 +83,7 @@ export default function LoginPage() {
 
   // 🔐 TEMPORARY ADMIN LOGIN — REMOVE LATER
   const handleAdminLogin = () => {
-    window.open("https://vercel.com/abdullahalnomanfbs-projects/portfolio", "_blank");
+    window.open("https://mr-chemist-doctors-dashboard.vercel.app/dashboard", "_blank");
   };
 
   return (
